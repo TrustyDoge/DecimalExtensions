@@ -1,0 +1,8 @@
+C:\Users\Trusty\Documents\GitHub\DecimalExtensions\TrustedDoge.DecimalExtensions\TrustedDoge.DecimalExtensions\bin\Debug\netstandard2.0\TrustedDoge.DecimalExtensions.deps.json
+C:\Users\Trusty\Documents\GitHub\DecimalExtensions\TrustedDoge.DecimalExtensions\TrustedDoge.DecimalExtensions\bin\Debug\netstandard2.0\TrustedDoge.DecimalExtensions.dll
+C:\Users\Trusty\Documents\GitHub\DecimalExtensions\TrustedDoge.DecimalExtensions\TrustedDoge.DecimalExtensions\bin\Debug\netstandard2.0\TrustedDoge.DecimalExtensions.pdb
+C:\Users\Trusty\Documents\GitHub\DecimalExtensions\TrustedDoge.DecimalExtensions\TrustedDoge.DecimalExtensions\bin\Debug\netstandard2.0\TrustedDoge.DecimalExtensions.xml
+C:\Users\Trusty\Documents\GitHub\DecimalExtensions\TrustedDoge.DecimalExtensions\TrustedDoge.DecimalExtensions\obj\Debug\netstandard2.0\TrustedDoge.DecimalExtensions.AssemblyInfoInputs.cache
+C:\Users\Trusty\Documents\GitHub\DecimalExtensions\TrustedDoge.DecimalExtensions\TrustedDoge.DecimalExtensions\obj\Debug\netstandard2.0\TrustedDoge.DecimalExtensions.AssemblyInfo.cs
+C:\Users\Trusty\Documents\GitHub\DecimalExtensions\TrustedDoge.DecimalExtensions\TrustedDoge.DecimalExtensions\obj\Debug\netstandard2.0\TrustedDoge.DecimalExtensions.dll
+C:\Users\Trusty\Documents\GitHub\DecimalExtensions\TrustedDoge.DecimalExtensions\TrustedDoge.DecimalExtensions\obj\Debug\netstandard2.0\TrustedDoge.DecimalExtensions.pdb

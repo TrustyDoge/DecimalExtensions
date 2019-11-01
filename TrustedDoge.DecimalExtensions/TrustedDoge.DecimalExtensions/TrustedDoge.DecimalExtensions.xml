@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>TrustedDoge.DecimalExtensions</name>
+    </assembly>
+    <members>
+        <member name="T:TrustedDoge.DecimalExtensions.MuchExtensions">
+            <summary>
+                Contains all the functions of <see cref="N:TrustedDoge.DecimalExtensions"/>.
+            </summary>
+        </member>
+        <member name="M:TrustedDoge.DecimalExtensions.MuchExtensions.GetDecimalDigits(System.Decimal,System.Boolean)">
+            <summary>
+                Tells you how many decimal digits a number has.
+            </summary>
+            <param name="number">The number of which you want to know the amount of decimal digits.</param>
+            <param name="ignoreTrailingZeros">If <see langword="true"/>, trailing zeros are ignored, so 0.01000 can result in 2 if set to <see langword="true"/>, or 5 if it is set to <see langword="false"/>./></param>
+        </member>
+        <member name="M:TrustedDoge.DecimalExtensions.MuchExtensions.RoundUp(System.Decimal,System.Int32)">
+            <summary>
+                Rounds up a number to next bigger number with the chosen decimal precision.
+            </summary>
+            <param name="value">Number to be rounded up.</param>
+            <param name="decimalPlaces">The decimal precision for the result.</param>
+            <returns></returns>
+        </member>
+        <member name="M:TrustedDoge.DecimalExtensions.MuchExtensions.RoundDown(System.Decimal,System.Int32)">
+            <summary>
+                Rounds down a number to next smaller number with the chosen decimal precision.
+            </summary>
+            <param name="value">Number to be rounded down.</param>
+            <param name="decimalPlaces">The decimal precision for the result.</param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
